@@ -7,6 +7,7 @@ Multi-vendor marketplace backend (Phase 1) built with Laravel. This repo contain
 - `docs/phase-1.md` (backend scope, architecture, setup, testing)
 - `docs/phase-2.md` (frontend scope outline)
 - `docs/style-guide.md` (naming conventions and coding rules)
+- `docs/notes.md` (general project notes)
 
 ## Tech Stack (Phase 1)
 
